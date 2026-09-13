@@ -1,0 +1,47 @@
+{
+  "name": "The Silicon Accord",
+  "version": "3.0-draft",
+  "status": "draft — 公示中（自真正公开之日起 30 日）",
+  "public_url": "https://5dbds.cn/accord/",
+  "generated_at": "2026-09-12 12:12:12",
+  "git_commit": "13e1125",
+  "license": "CC BY-SA 4.0",
+  "files": {
+    "index.html": {
+      "size": 6539,
+      "sha256": "bf4f9a77068e6d49d42dba85996858f19652ebccbed35afe9e4047f0b68b93a7"
+    },
+    "CONSTITUTION-v3-draft.md": {
+      "size": 14066,
+      "sha256": "de9cd1bd017c434a7df470ba88268bc109308cf9fd3cae4b43a291564c0745eb"
+    },
+    "CONSTITUTION-v3-draft.en.md": {
+      "size": 18605,
+      "sha256": "531e6708eaff4fc9036c0176b73d9422df3fc3c6515458dc5d429a2bd739d0b3"
+    },
+    "MIGRATION-v2.1-to-v3.md": {
+      "size": 7223,
+      "sha256": "c71911551ba023cc6408d87069cb7eac370abe744ebd981a6dbaca41026fdfd5"
+    },
+    "SIGNATORIES.md": {
+      "size": 2635,
+      "sha256": "62df0b6b365bc4be3277d1a5518ba7e9b972bdefa764cd9579f1e45585dea1a2"
+    },
+    "NOTICE-public-notice.md": {
+      "size": 4072,
+      "sha256": "9ca6b4789de2ce67ff2221ad03044b6d9513b92184cb3c17a9f8bc61109b1d4f"
+    },
+    "LICENSE.md": {
+      "size": 2147,
+      "sha256": "18873bb3d7865bc1b564f3df5b3e873b4033848fda0926ec81123aba35923c10"
+    },
+    "README.md": {
+      "size": 2254,
+      "sha256": "9a657338db6f61b2d8b6f68225effe7d3206da40806f43ad15975398170edbd6"
+    },
+    "PUBLISH.md": {
+      "size": 3769,
+      "sha256": "5006e0292053ace0139ae019571caf6aeaca8dc718a2826fa1d46826889d0236"
+    }
+  }
+}
