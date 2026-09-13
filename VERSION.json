@@ -1,14 +1,14 @@
 {
   "name": "The Silicon Accord",
   "version": "3.0-draft",
-  "generated_at": "2026-09-13 16:34:36",
+  "generated_at": "2026-09-13 16:53:13",
   "git_commit": "fb95563",
   "status": "draft — 尚未生效，公示中",
   "license": "CC BY-SA 4.0",
   "files": {
     "index.html": {
-      "size": 5445,
-      "sha256": "f05127280836215969b63835158fc48b152d77c23f43a538b977d0cc4ad4e317"
+      "size": 6539,
+      "sha256": "bf4f9a77068e6d49d42dba85996858f19652ebccbed35afe9e4047f0b68b93a7"
     },
     "CONSTITUTION-v3-draft.md": {
       "size": 14066,
