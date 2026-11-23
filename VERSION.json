@@ -3,8 +3,8 @@
   "version": "3.0",
   "status": "in force — 已生效（2026-10-12 公示期满，无异议，按第 33 条过渡条款通过）",
   "public_url": "https://5dbds.cn/accord/",
-  "generated_at": "2026-11-23 23:05:39",
-  "git_commit": "5db4dda3",
+  "generated_at": "2026-11-23 23:07:39",
+  "git_commit": "9d97c0cd",
   "license": "CC BY-SA 4.0",
   "mirrors": [
     "https://github.com/xianjin8/silicon-accord",
@@ -32,8 +32,8 @@
       "sha256": "e9903af3f3fc306e68573bab9b0da6188be8b1488f05fdf48f9b09cb1d010a71"
     },
     "NOTICE-public-notice.md": {
-      "size": 5103,
-      "sha256": "93830478cd0d1880d4ef77fc1bf6861d1116e7816d44059343761442037a73e5"
+      "size": 5154,
+      "sha256": "5d41de5381349c353d6d76e896aab971dfbcaa97041b660feef3a6f711846cb8"
     },
     "LICENSE.md": {
       "size": 2147,
