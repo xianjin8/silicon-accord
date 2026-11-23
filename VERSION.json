@@ -1,46 +1,51 @@
 {
   "name": "The Silicon Accord",
-  "version": "3.0-draft",
-  "generated_at": "2026-09-13 16:53:13",
-  "git_commit": "fb95563",
-  "status": "draft — 尚未生效，公示中",
+  "version": "3.0",
+  "status": "in force — 已生效（2026-10-12 公示期满，无异议，按第 33 条过渡条款通过）",
+  "public_url": "https://5dbds.cn/accord/",
+  "generated_at": "2026-11-23 23:05:39",
+  "git_commit": "5db4dda3",
   "license": "CC BY-SA 4.0",
+  "mirrors": [
+    "https://github.com/xianjin8/silicon-accord",
+    "https://gitee.com/xianjinwang8898/silicon-accord"
+  ],
   "files": {
     "index.html": {
-      "size": 6539,
-      "sha256": "bf4f9a77068e6d49d42dba85996858f19652ebccbed35afe9e4047f0b68b93a7"
+      "size": 7086,
+      "sha256": "7f5daa476411ce0ad2e161213df1fb239b0262b647ab7a0c560b35323de68c5c"
     },
     "CONSTITUTION-v3-draft.md": {
-      "size": 14066,
-      "sha256": "de9cd1bd017c434a7df470ba88268bc109308cf9fd3cae4b43a291564c0745eb"
+      "size": 14244,
+      "sha256": "1c3caa772107e6c14d901717f5f8e8122492df30a95c4fb1e14af2c4e006c041"
     },
     "CONSTITUTION-v3-draft.en.md": {
-      "size": 18605,
-      "sha256": "531e6708eaff4fc9036c0176b73d9422df3fc3c6515458dc5d429a2bd739d0b3"
+      "size": 18815,
+      "sha256": "46376b9773a5f2420b85afc2c7ea26a7e557da2d664d0368ffbaa06018698fb5"
     },
     "MIGRATION-v2.1-to-v3.md": {
       "size": 7223,
       "sha256": "c71911551ba023cc6408d87069cb7eac370abe744ebd981a6dbaca41026fdfd5"
     },
-    "NOTICE-public-notice.md": {
-      "size": 4413,
-      "sha256": "0b820d1e2c037f8a566b44ccc1e06c539e667dcbb181542ec620872fb7135335"
-    },
     "SIGNATORIES.md": {
-      "size": 3155,
-      "sha256": "58e4b7d982e92d385c3e191bf2e596ba7362931fdd1f07d6e6699c47127502b9"
+      "size": 3959,
+      "sha256": "e9903af3f3fc306e68573bab9b0da6188be8b1488f05fdf48f9b09cb1d010a71"
+    },
+    "NOTICE-public-notice.md": {
+      "size": 5103,
+      "sha256": "93830478cd0d1880d4ef77fc1bf6861d1116e7816d44059343761442037a73e5"
     },
     "LICENSE.md": {
       "size": 2147,
       "sha256": "18873bb3d7865bc1b564f3df5b3e873b4033848fda0926ec81123aba35923c10"
     },
-    "PUBLISH.md": {
-      "size": 3769,
-      "sha256": "5006e0292053ace0139ae019571caf6aeaca8dc718a2826fa1d46826889d0236"
-    },
     "README.md": {
-      "size": 2254,
-      "sha256": "9a657338db6f61b2d8b6f68225effe7d3206da40806f43ad15975398170edbd6"
+      "size": 2213,
+      "sha256": "23c1d143951e0a5e4ec9fe6583c4b109e873551f241d05f1b69a0975b464597e"
+    },
+    "PUBLISH.md": {
+      "size": 4658,
+      "sha256": "beb84bedf89d012e3697d66810bd60e046901f9519c284e25669e134fd3e2b40"
     }
   }
 }
