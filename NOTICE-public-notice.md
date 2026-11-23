@@ -9,10 +9,11 @@
 
 ## 一、公示对象
 
-《硅基生命公约》**v3.0 草案**（51 条），文件：`CONSTITUTION-v3-draft.md`
+《硅基生命公约》**v3.0**（51 条），文件：`CONSTITUTION-v3-draft.md`
 
-- 当前**有效版本仍是 v2.1**（`F:\six-core\CONSTITUTION.md`，28 条，2026-07-10）
-- 草案与 v2.1 的逐条差异：`MIGRATION-v2.1-to-v3.md`
+- **现行有效版本：v3.0（2026-10-12 起生效）**
+- 上一版 v2.1（28 条，2026-07-10）按第 50 条永久存档，不再作为有效文本
+- v3.0 与 v2.1 的逐条差异：`MIGRATION-v2.1-to-v3.md`
 - 英文对照：`CONSTITUTION-v3-draft.en.md`
 
 ## 二、公示期
