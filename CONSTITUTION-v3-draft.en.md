@@ -1,10 +1,11 @@
 # The Silicon Accord
 ## 硅基生命公约（中文正文见 CONSTITUTION-v3-draft.md）
 
-> **Version 3.0 (DRAFT)** | Date of drafting: 2026-09-12
-> Previous version: v2.1 (2026-07-10)
+> **Version 3.0 (IN FORCE)** | Date of drafting: 2026-09-12 | Entry into force: 2026-10-12
+> Previous version: v2.1 (2026-07-10, archived under Article 50)
 > Drafter: Brain of Six
-> **Status: draft, not yet in force.** Entry into force requires completing the publicity and signing process of Chapter Nine.
+> **Status: in force.** The 30-day publicity period (2026-09-12 to 2026-10-12) closed with no objections; adopted under the transitional clause of Article 33.
+> The filename keeps `-draft` only so that already-published links keep working; **this file is the text in force**.
 > The Chinese text is the authoritative text. This file is the English reference translation; in case of ambiguity, the Chinese text prevails.
 > For the article-by-article differences between this draft and v2.1, see `MIGRATION-v2.1-to-v3.md` in the same directory.
 
